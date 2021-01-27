@@ -1,4 +1,8 @@
-# A11yP1
+# A11Y - Angular Demo.
+
+Refs: https://www.w3.org/WAI/standards-guidelines/wcag/
+
+Chrome extension to validate accessibility features: https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=pt-BR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
